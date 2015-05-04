@@ -1,0 +1,17 @@
+A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
+===
+
+link to the map position (Las Vegas):
+
+https://www.openstreetmap.org/relation/170117#map=12/36.3350/-115.1642
+
+For this project, I chose to analyze data from Las Vegas. It is one of the most popular tourist destinations in world and I would like to visit once in my lifetime. Also I would like to know this place well using this project. I hope this map to be improved in future.
+
+I downloaded the data using following steps:
+
+•	Open URL - http://www.openstreetmap.org/ 
+•	Search "Las vegas"
+•	Click on "Export" button
+•	Selected "Metro Extract" - linked to  "https://mapzen.com/metro-extracts/
+•	Las Vegas, Nevada ( OSM XML ) download
+•	Decompress the file to las-vegas_nevada.osm (169 MB)
